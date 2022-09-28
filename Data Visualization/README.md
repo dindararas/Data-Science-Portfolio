@@ -15,4 +15,6 @@ There are four datasets used in this project :
 - Global Hunger Index : [Human Progress](https://www.humanprogress.org/dataset/global-hunger-index/)
 - Global Food Production Index : [Human Progress](https://www.humanprogress.org/dataset/food-production-index/)
 
+## NOTES
+This project include visualization by raceplot and choropleth map to display the changes over the years. For better visualization, open this project on Google Colab.
 
