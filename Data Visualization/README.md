@@ -11,8 +11,8 @@ This project aims to visualize how global food supply, food production index, gl
 ## Dataset Sources
 There are four datasets used in this project :
 - Global Population : [Kaggle](https://www.kaggle.com/datasets/imdevskp/world-population-19602018)
-- Global Food Supply : [humanprogress.org](https://www.humanprogress.org/dataset/food-supply-per-person-per-day)
-- Global Hunger Index : [humanprogress.org](https://www.humanprogress.org/dataset/global-hunger-index/)
-- Global Food Production Index : [humanprogress.org](https://www.humanprogress.org/dataset/food-production-index/)
+- Global Food Supply : [Human Progress](https://www.humanprogress.org/dataset/food-supply-per-person-per-day)
+- Global Hunger Index : [Human Progress](https://www.humanprogress.org/dataset/global-hunger-index/)
+- Global Food Production Index : [Human Progress](https://www.humanprogress.org/dataset/food-production-index/)
 
 
