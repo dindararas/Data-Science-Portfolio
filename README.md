@@ -15,8 +15,8 @@ I use **plotly** for data visualization in all the projects, but plotly graphs c
 - **Data Visualization**
   - [Global Food Production and Population](https://github.com/dindararas/Data-Science-Portfolio/blob/main/Data%20Visualization/Global_Food_Production_and_Population.ipynb) : Data analysis of how global food production and population changes throughout the years.
   
-  - **Time Series Prediction**
-    - [Air Temperature Time Series Prediction](https://github.com/dindararas/Data-Science-Portfolio/blob/main/Time%20Series%20Prediction/Air_Temperature_Time_Series_Prediction.ipynb) : Comparing LSTM and CNN performance to predict the next month's air temperature in Jakarta.
+- **Time Series Prediction**
+  - [Air Temperature Time Series Prediction](https://github.com/dindararas/Data-Science-Portfolio/blob/main/Time%20Series%20Prediction/Air_Temperature_Time_Series_Prediction.ipynb) : Comparing LSTM and CNN performance to predict the next month's air temperature in Jakarta.
     
-  - **Recommendation System**
-    - [Movie Recommendation System](https://github.com/dindararas/Data-Science-Portfolio/blob/main/Recommendation%20System/Movie_Recommendation_System.ipynb) : Building content-based recommendation system based on movie description, genre, keywords, cast, and direction by using TMDB500 dataset.
+- **Recommendation System**
+  - [Movie Recommendation System](https://github.com/dindararas/Data-Science-Portfolio/blob/main/Recommendation%20System/Movie_Recommendation_System.ipynb) : Building content-based recommendation system based on movie description, genre, keywords, cast, and direction by using TMDB500 dataset.
