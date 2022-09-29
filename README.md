@@ -2,7 +2,7 @@
 
 This respository containts portfolio of data science projects for self-learning. All of projects in this respository are presented in Google Colab.
 
-For more information about me, you can visit my [LinkedIn](https://www.linkedin.com/in/dinda-raraswati-646068108/?originalSubdomain=id)
+For more information about me, you can visit my [LinkedIn](https://www.linkedin.com/in/dinda-raraswati/)
 
 ## NOTE 
 I use **plotly** for data visualization in all the projects, but plotly graphs can not be displayed in Github, so **please check out my portfolio on Google Colab**
